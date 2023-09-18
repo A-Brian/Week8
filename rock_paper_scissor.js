@@ -56,5 +56,5 @@ function game(rounds) {
   }
 }
 
-// Start the game with 5 rounds
-game(5);
+// Start with 6 rounds
+game(6);
